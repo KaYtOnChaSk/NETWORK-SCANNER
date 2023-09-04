@@ -10,5 +10,5 @@ Easy to use & Only need a WINDOWS OS python latest version.🔧
 
 # CREDITS
 Credits for chask for creating this project
-if you want to support you can tell your friends / people about my projects that i make.
+if you want to support me you can tell your friends / people about my projects that i make.
 If you want to report any issues or contacting me here is my discord: chask16#6188
